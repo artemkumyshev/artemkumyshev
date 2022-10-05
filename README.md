@@ -1,9 +1,7 @@
 
-![](https://github.com/artemkumyshev/artemkumyshev/blob/master/d994d9144509937.628dbaac69fa9.jpg?raw=true)
+![](./d994d9144509937.628dbaac69fa9.jpg)
 
-###
-
-Я Артем, frontend-разработчик. Стремлюсь стать fullstack-разработчиком.
+### Я Артем, frontend-разработчик. Стремлюсь стать fullstack-разработчиком.
 
 \- В настоящее время изучаю NestJS  
 \## My Skill Set
