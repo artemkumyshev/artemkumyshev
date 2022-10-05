@@ -12,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Мои навыки
 <table><tr><td valign="top" width="33%">
 
 
